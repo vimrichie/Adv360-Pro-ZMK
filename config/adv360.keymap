@@ -4,10 +4,6 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
-&mt {
-    tapping-term-ms = <1000>;
-};
-
 
 
 / {
